@@ -8,6 +8,14 @@ Python ilə yazılmışdır Pyrogram kitabxanası istifadə edilərək
 Əlaqə
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/emnysfv)
 
+Ümumi istifadə qaydası 
+
+$ git clone https://github.com/xxxemnxx/osintbot
+$ cd osintbot
+$ pip install pyrogram
+$ python main.py
+
+
 İstifadə edə biləcəyiniz əməliyyat sistemləri:
 - Linux [![Linux](https://img.shields.io/badge/Linux-Info-blue?logo=linux)](https://www.example.com)
 - Windows [![Windows](https://img.shields.io/badge/Windows-Info-blue?logo=windows)]
