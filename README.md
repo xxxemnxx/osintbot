@@ -2,6 +2,9 @@
 
 Bu kod, telegram platforması daxilində olan bot ilə bir şəxsin username dəyərini birçox sosyal medyada avtomatik olaraq axtara biləcəyiniz kiçik bir örnək osint telegram botudur. 
 
+Python ilə yazılmışdır Pyrogram kitabxanası istifadə edilərək
+[![Python](https://img.shields.io/badge/Python-Download-blue?logo=python)](https://www.python.org/download)
+
 Əlaqə
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/emnysfv)
 
