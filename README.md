@@ -11,8 +11,11 @@ Python ilə yazılmışdır Pyrogram kitabxanası istifadə edilərək
 Ümumi istifadə qaydası 
 
 $ git clone https://github.com/xxxemnxx/osintbot
+
 $ cd osintbot
+
 $ pip install pyrogram
+
 $ python main.py
 
 
