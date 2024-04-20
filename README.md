@@ -2,7 +2,8 @@
 
 Bu kod, telegram platforması daxilində olan bot ilə bir şəxsin username dəyərini birçox sosyal medyada avtomatik olaraq axtara biləcəyiniz kiçik bir örnək osint telegram botudur. 
 
-Əlaqə: [Telegram link - t.me/emnysfv](https://t.me/emnysfv)
+Əlaqə
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/emnysfv)
 
 İstifadə edə biləcəyiniz əməliyyat sistemləri:
 - Linux [![Linux](https://img.shields.io/badge/Linux-Info-blue?logo=linux)](https://www.example.com)
